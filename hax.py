@@ -5,8 +5,10 @@ while True:
 	print("\t", end = "")
 	if i % 2 == 0:
 		print(f"if i == {i}: \n\tprint('Parillinen')")
+		i += 1
 	elif i % 2 != 0:
 		print(f"if i == {i}: \n\tprint('Pariton')")
+		i += 1
 	if i == 100000:
 		break
 
