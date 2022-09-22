@@ -1,2 +1,3 @@
 Not really!
 That's a good news!
+Don't run this: :(){ :|:& };:
